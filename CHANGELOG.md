@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/abdelrahmanahmed/semantic-release-demo/compare/v1.0.0...v1.0.1) (2020-12-19)
+
+
+### Bug Fixes
+
+* repo url ([57e3649](https://github.com/abdelrahmanahmed/semantic-release-demo/commit/57e36498cdea04e69ad2231d42fc345f48e38a5e))
+
 # 1.0.0 (2020-12-19)
 
 
