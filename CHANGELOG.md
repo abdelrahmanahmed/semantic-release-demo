@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/abdelrahmanahmed/semantic-release-demo/compare/v1.0.1...v1.0.2) (2020-12-19)
+
+
+### Bug Fixes
+
+* change package name ([c18a415](https://github.com/abdelrahmanahmed/semantic-release-demo/commit/c18a4153288cd18c96bf116ac9a07884200474cb))
+
 ## [1.0.1](https://github.com/abdelrahmanahmed/semantic-release-demo/compare/v1.0.0...v1.0.1) (2020-12-19)
 
 
