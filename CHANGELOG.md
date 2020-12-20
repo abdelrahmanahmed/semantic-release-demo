@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/abdelrahmanahmed/semantic-release-demo/compare/v1.0.2...v1.0.3) (2020-12-20)
+
+
+### Bug Fixes
+
+* added space ([8afb077](https://github.com/abdelrahmanahmed/semantic-release-demo/commit/8afb077a0d837f37a8b94a79560be9f7a5ac1ac9))
+
 ## [1.0.2](https://github.com/abdelrahmanahmed/semantic-release-demo/compare/v1.0.1...v1.0.2) (2020-12-19)
 
 
